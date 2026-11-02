@@ -14,7 +14,7 @@ Beginner browser-automation practice using Playwright (JavaScript) on SauceDemo,
 - User can log out
 
 ## Result
-All 6 tests passed in Chromium (see `screenshots/`).
+All 6 tests passed in Chromium (see `Screenshots/`).
 
 ## How to run
 1. Install Node.js
